@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   id="Layer_1"
+   data-name="Layer 1"
+   version="1.1"
+   sodipodi:docname="picto-news.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.3725"
+     inkscape:cx="398.65772"
+     inkscape:cy="405.36913"
+     inkscape:window-width="990"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:none;stroke:#020202;stroke-miterlimit:10;stroke-width:1.91px;}</style>
+  </defs>
+  <path
+     class="cls-1"
+     d="M22.5,13.91v6.68a1.92,1.92,0,0,1-1.91,1.91,1.93,1.93,0,0,1-1.91-1.91V13.91Z"
+     id="path1"
+     style="fill:none;stroke:#ea3002;stroke-opacity:1" />
+  <path
+     class="cls-1"
+     d="M20.59,22.5H3.41A1.92,1.92,0,0,1,1.5,20.59V1.5H18.68V20.59a1.93,1.93,0,0,0,1.91,1.91Z"
+     id="path2"
+     style="fill:none;stroke:#ea3002;stroke-opacity:1" />
+  <rect
+     class="cls-1"
+     x="5.32"
+     y="5.32"
+     width="9.55"
+     height="4.77"
+     id="rect2"
+     style="fill:none;stroke:#ea3002;stroke-opacity:1" />
+  <line
+     class="cls-1"
+     x1="4.36"
+     y1="13.91"
+     x2="8.18"
+     y2="13.91"
+     id="line2"
+     style="fill:none;stroke:#ea3002;stroke-opacity:1" />
+  <line
+     class="cls-1"
+     x1="4.36"
+     y1="17.73"
+     x2="8.18"
+     y2="17.73"
+     id="line3"
+     style="fill:none;stroke:#ea3002;stroke-opacity:1" />
+  <rect
+     class="cls-1"
+     x="11.05"
+     y="13.91"
+     width="3.82"
+     height="3.82"
+     id="rect3"
+     style="fill:none;stroke:#ea3002;stroke-opacity:1" />
+</svg>
